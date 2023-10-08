@@ -1,0 +1,42 @@
+[
+    {
+        "ParameterKey":"ProjectName",
+        "ParameterValue":"IAC-final-project"
+    },
+    {
+        "ParameterKey":"VpcCIDR",
+        "ParameterValue":"10.2.0.0/16"
+    },
+    {
+        "ParameterKey":"Privtesubnet1",
+        "ParameterValue":"privte-subnet-1 (AZ1)"
+    },
+    {
+        "ParameterKey":"Privtesubnet2",
+        "ParameterValue":"privte-subnet-2 (AZ2)"
+    },
+    {
+        "ParameterKey":"Publicsubnet1",
+        "ParameterValue":"public-subnet-1 (AZ1)"
+    },
+    {
+        "ParameterKey":"Publicsubnet2",
+        "ParameterValue":"public-subnet-2 (AZ2)"
+    },
+    {
+        "ParameterKey":"PrivteSubnet1CIDR",
+        "ParameterValue":"10.2.1.0/24"
+    },
+    {
+        "ParameterKey":"PrivteSubnet2CIDR",
+        "ParameterValue":"10.2.2.0/24"
+    },
+    {
+        "ParameterKey":"PublicSubnet1CIDR",
+        "ParameterValue":"10.2.3.0/24"
+    },
+    {
+        "ParameterKey":"PublicSubnet2CIDR",
+        "ParameterValue":"10.2.4.0/24"
+    }
+]

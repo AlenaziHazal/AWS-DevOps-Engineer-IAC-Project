@@ -1,0 +1,14 @@
+[
+	{
+		"ParameterKey": "ProjectName",
+		"ParameterValue": "IAC-final-project"
+	},
+	{
+		"ParameterKey": "ASGDesiredCapacity",
+		"ParameterValue": "4"
+	},
+	{
+		"ParameterKey": "MyBucketName",
+		"ParameterValue": "arn:aws:s3:::hazal-final-project-iac"
+	}
+]
