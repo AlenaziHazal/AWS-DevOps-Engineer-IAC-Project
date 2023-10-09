@@ -10,6 +10,8 @@
 #   $3: Stack name.
 #   $4: Resourse file.
 #   $5: Parameters file.
+
+# locking forward to here more about you 
 # Usage examples:
 #   ./pipline.sh $1{Team who use} $2{Action} $3{stack name} $4{resourse file} $5{parameters file}
 
